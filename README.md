@@ -1,3 +1,6 @@
+
+![Gemini_Generated_Image_dxkoptdxkoptdxko](https://github.com/user-attachments/assets/0bd0a1a4-e16b-4b2c-8686-b57f96083e0a)
+
 # 📚 Criador de Histórias Interativas com IA
 
 <p align="center">
