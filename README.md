@@ -1,5 +1,5 @@
 
-![Gemini_Generated_Image_dxkoptdxkoptdxko](https://github.com/user-attachments/assets/0bd0a1a4-e16b-4b2c-8686-b57f96083e0a)
+![Gemini_Generated_Image_dxkoptdxkoptdxko - Editado](https://github.com/user-attachments/assets/9e3f9605-383b-456d-99d7-b055cdd79c59)
 
 # 📚 Criador de Histórias Interativas com IA
 
