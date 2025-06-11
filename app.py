@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # --- Sua chave de API adicionada aqui ---
-genai.configure(api_key="AIzaSyBlguT0AjfRxC3J-TdBnWEzmoUuQxm5wkg")
+genai.configure(api_key="YOUR_KEY_API")
 # -------------------------------------
 
 st.set_page_config(layout="wide")
