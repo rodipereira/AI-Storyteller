@@ -38,7 +38,7 @@ Crie o início de histórias interativas usando IA! Este aplicativo Streamlit pe
     ```bash
     pip install streamlit google-generativeai
     ```
-4.  **Chave de API:** Sua chave de API do Google AI Studio deve estar configurada em `app_historia.py` na linha `genai.configure(api_key="SUACHAVEAPI")`. Substitua `"SUACHAVEAPI"` pela sua chave real (`AIzaSyBlguT0AjfRxC3J-TdBnWEzmoUuQxm5wkg`).
+4.  **Chave de API:** Sua chave de API do Google AI Studio deve estar configurada em `app_historia.py` na linha `genai.configure(api_key="SUACHAVEAPI")`. Substitua `"SUACHAVEAPI"` pela sua chave real.
 5.  **Execute:**
     ```bash
     streamlit run app_historia.py
